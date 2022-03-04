@@ -1,9 +1,6 @@
 # FrontendSemana1
-solución de las  practicas de introducción de FrontEnd
-Para la toma de requerimientos se uso la plantilla que se proporciono
-para la creacion del buyer persona use https://www.hubspot.es/make-my-persona
-Para la creacion de publico objetivo use https://miro.com/es/plantillas/publico-objetivo/
-Para la creacion de UX y de UI utilice https://uizard.io/es.
-
-Solucion  de las practicas de introduccion de FrontEnd.
-
+•	Solución de las prácticas de introducción de FrontEnd.
+•	Para la toma de requerimientos se usó la plantilla que se proporcionó.
+•	 para la creación del Buyer persona use: https://www.hubspot.es/make-my-persona
+•	 Para la creación de publico objetivo se https://miro.com/es/plantillas/publico-objetivo/ 
+•	Para la creación de UX y de UI utilice https://uizard.io/es
